@@ -3,7 +3,7 @@
 	height: 606px;
 	display: flex;
 	flex-wrap: wrap;
-	padding-left: 505px;
+	padding-left: 360px;
 	margin-bottom: 50px;
 }
 
@@ -46,5 +46,5 @@ body {
 }
 
 .num {
-	margin-left: -120px;
+	margin-left: -100px;
 }
