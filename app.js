@@ -28,7 +28,7 @@ function randomSquare() {
         hitPosition = null // para poder volverle a pegar
       }
     })
-  })
+  })//
 
 function moveMole() {
     let timerId = null
