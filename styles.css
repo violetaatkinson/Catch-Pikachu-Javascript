@@ -1,0 +1,50 @@
+.grid {
+	width: 606px;
+	height: 606px;
+	display: flex;
+	flex-wrap: wrap;
+	padding-left: 505px;
+	margin-bottom: 50px;
+}
+
+.square {
+	height: 200px;
+	width: 200px;
+	border: solid rgb(67, 14, 192) 1px;
+	background-color:#3838bb;
+}
+
+.mole {
+	background-image: url('./images/picachu.png');
+	background-size: cover;
+}
+
+body {
+	background-image: url('./images/background.jpg');
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+
+.image {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.text {
+	color: white;
+	letter-spacing: 1.5px;
+	justify-content: center;
+	gap: 9%;
+	display: flex;
+	margin-bottom: 5px;
+	font-size: 21px;
+}
+
+.num {
+	margin-left: -120px;
+}
